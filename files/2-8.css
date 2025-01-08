@@ -1,0 +1,69 @@
+#pinkDiv {
+    width: 80%;
+    padding: 96px;
+    background-color: #FFAEAF;
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 278px;
+}
+
+#whiteDiv {
+    background-color: #fff;
+    width: 80%;
+    padding: 96px;
+}
+
+#mainTextDiv {
+    text-align: center;
+    margin-bottom: 96px;
+}
+
+#span {
+    color: #ED00A6;
+    font-size: 16px;
+    margin-bottom: 12px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+#h1 {
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+#p {
+    font-size: 20px;
+    line-height: 24px;
+    color: #535862;
+}
+
+#designersDiv {
+    text-align: left;
+    margin-bottom: 96px;
+}
+
+#designers {
+    width: 600px;
+    height: 462px;
+}
+
+#codesDiv {
+    text-align: right;
+    margin-bottom: 96px;
+}
+
+#codes {
+    width: 600px;
+    height: 462px;
+}
+
+#justDiv {
+    text-align: left;
+}
+
+#just {
+    width: 600px;
+    height: 462px;
+}
